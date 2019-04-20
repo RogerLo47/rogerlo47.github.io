@@ -22,7 +22,7 @@
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
+            <i class="fa fa-lg fa-envelope-o"></i>
             <span class="username">{{ site.email }}</span>
           </a>
         </li>
@@ -31,7 +31,7 @@
           {% if social.url != null %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
+              <i class="fa fa-lg fa-{{ social.icon }}"></i>
               <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
           </li>
@@ -42,7 +42,7 @@
     </div>
 
     <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ /feed.xml | prepend: site.baseurl }}">via RSS</a></strong></p>
       <p class="text">{{ site.description }}</p>
     </div>
 
