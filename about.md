@@ -11,5 +11,5 @@ Roger Chi-Jen Lo (羅啟仁) lives in Taipei, Taiwan. He is a M.S. student and P
 [Graduate Institute of Communication Engineering, National Taiwan University]: https://comm.ntu.edu.tw
 [Department of Electrical Engineering, National Taiwan University]: https://web.ee.ntu.edu.tw
 [Prof. Hung-Yun Hsieh]: https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014
-[CV]: https://github.com/RogerLo47/RogerLo47.github.io/blob/d936c0c7108065b324ea2b50607f81b3a5a16efb/assets/CHI-JEN%20LO%20CV.pdf
+[CV]: https://tonic.ee.ntu.edu.tw/depot/rogerlo47/CHI-JEN%20LO%20CV_2.pdf
 [LinkedIn]: https://www.linkedin.com/in/rogerlo47/
