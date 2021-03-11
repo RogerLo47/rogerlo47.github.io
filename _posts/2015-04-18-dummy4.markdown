@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaderships, awards, extracurricular activities"
+title:  "Leaderships, awards & extracurricular activities"
 date:   2021-03-11 18:01:21
 author: Roger Chi-Jen Lo
 categories: Posts
