@@ -9,7 +9,7 @@ tags: lorem
 
 Here are some examples of my homeworks, final reports, and presentations I've done in the lectures I've taken previously. Below I list out the courses I've taken through my masters and undergradutes.
 
-Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus*, Information Theory* (* for audit)
+Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus#, Information Theory# (# for audit)
 
 Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Computer Networking, Probability and Statistics, Principle of Communications, Discrete Mathematics, Complex Variables, Signals and Systems, Computer Programming, Linear Algebra, Calculus (I)(II)
 
