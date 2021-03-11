@@ -1,16 +1,54 @@
 ---
 layout: post
 title:  "Presentation Slides of Study Groups"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: lorem ipsum
+tags: studygroup presentation
 ---
 
-These are some of my presentation slides from Advanced Algorithms Study Group and Graph Neural Network (GNN) Study Group. These study group was initiate by Prof. De-Nian Yang at Institute of Information Science, Academia Sinica.
+These are some of my presentation slides from [Advanced Algorithms Study Group] and [Graph Neural Networks (GNN) Study Group]. These study groups was initiate by Prof. De-Nian Yang at Institute of Information Science, Academia Sinica.
 
 ### Advanced Algorithms Study Group
 
+More efficient exponential-time algorithms, Zeta transform, and Möbius inversion
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/aasg_021821.pdf">
+</iframe>
 
+Large-scale log-determinant approximation
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/log-det-approx.pdf">
+</iframe>
+
+LP, ILP, and randomized rounding
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/S_18_05.pdf">
+</iframe>
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/LinearProgrammingDuality-all.pdf">
+</iframe>
 
 ### Graph Neural Network (GNN) Study Group
+
+Graph convolutional network (GCN) with eigenpooling
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/eigenpooling.pdf">
+</iframe>
+
+Modeling Triadic closure process
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Modeling%20triad%20closure%202.pdf">
+</iframe>
+
+Signed Network Embedding (SiNE) in social media
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/SiNE%20slides.pdf">
+</iframe>
+
+[Advanced Algorithms Study Group]: https://shaohengko.github.io/studygroup/
+[Graph Neural Networks (GNN) Study Group]: https://hackmd.io/Ga3mxIQyTrSVYLxskGG1mQ
