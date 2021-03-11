@@ -1,16 +1,42 @@
 ---
 layout: post
-title:  "Dummy Post 3"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
+title:  "How I shape my mind, mentality and philosophy"
+date:   2021-03-11 22:11:37
+author: Roger Chi-Jen Lo
+categories: Posts
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+In this post I'd like to show how I shape my mind, mentality and philosophy through ages. Also, I'm going to list out the books that have deeply influenced me.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### What
+
+
+
+### The love for mathematics
+
+
+
+
+### Books that have influenced me significantly
+<ul class="default">
+  <li>Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger[https://www.poorcharliesalmanack.com/pca.php#page1]</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+  <li>List Item 1</li>
+  <li>How Google Works[https://books.google.com.tw/books/about/How_Google_Works.html?id=Yk9zAwAAQBAJ&redir_esc=y]</li>
+  <li>List Item 3</li>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+</ul>
+
+Besides, I'd also like to show my wish list. I hope I can squeeze out some free time, get a cup of coffee, and go through these books in the future.
