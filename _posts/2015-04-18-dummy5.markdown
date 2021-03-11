@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "Dummy Post 5"
+title:  "Handouts and Reports of Lectures Taken"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
 tags: lorem
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+Here are some examples of my homeworks, final reports, and presentations I've done in the lectures I've taken previously. Below I list out the courses I've taken through my masters and undergradutes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus*, Information Theory* (* for audit)
+
+Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Computer Networking, Probability and Statistics, Principle of Communications, Discrete Mathematics, Complex Variables, Signals and Systems, Computer Programming, Linear Algebra, Calculus (I)(II)
+
