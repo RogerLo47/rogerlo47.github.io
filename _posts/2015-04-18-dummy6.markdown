@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Presentation Slides of Study Groups"
+title:  "Presentation slides of study groups"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Dummy
 tags: studygroup presentation
 ---
 
