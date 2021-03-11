@@ -7,7 +7,7 @@ categories: Posts
 tags: leaderships awards activities
 ---
 
-Beyond intensive academic tasks, I also actively join the
+Beyond intensive academic tasks, I also actively join student activities, especially during my freshman and sophomore years. Nevertheless, I'd like to focus fully into acadmic researches in the coming years abroad.
 
 <h3>Masters, Naitonal Taiwan University</h3>
 <ul>
@@ -23,7 +23,7 @@ Beyond intensive academic tasks, I also actively join the
   <li>Held several affairs with hundreds of people under my organization</li>
 </ul>
 
-<img src="assets/yunchianight.jpg" width="500" align="middle">
+<img src="https://github.com/RogerLo47/RogerLo47.github.io/blob/d4df120e5b41f90214564dde1d55ad8d3d5fc1f1/assets/yunchianight.jpg" width="500" align="middle">
 
 <h3>Secondary, National Chiayi Senior High School</h3>
 <ul>
