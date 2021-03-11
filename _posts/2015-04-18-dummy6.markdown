@@ -7,7 +7,7 @@ categories: Dummy
 tags: studygroup presentation
 ---
 
-These are some of my presentation slides from [Advanced Algorithms Study Group] and [Graph Neural Networks (GNN) Study Group] from 2019 to 2021. These study groups was initiate by Prof. De-Nian Yang at Institute of Information Science, Academia Sinica.
+These are some of my presentation slides from [Advanced Algorithms Study Group] and [Graph Neural Networks (GNN) Study Group] from 2019 to 2021. These study groups was initiate by Prof. De-Nian Yang at [Institute of Information Science, Academia Sinica].
 
 ### Advanced Algorithms Study Group
 
@@ -36,3 +36,4 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 
 [Advanced Algorithms Study Group]: https://shaohengko.github.io/studygroup/
 [Graph Neural Networks (GNN) Study Group]: https://hackmd.io/Ga3mxIQyTrSVYLxskGG1mQ
+[Institute of Information Science, Academia Sinica]: https://www.iis.sinica.edu.tw/en/index.html
