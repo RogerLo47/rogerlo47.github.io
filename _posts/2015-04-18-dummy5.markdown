@@ -14,7 +14,7 @@ Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Nume
 Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Computer Networking, Probability and Statistics, Principle of Communications, Discrete Mathematics, Complex Variables, Signals and Systems, Computer Programming, Linear Algebra, Calculus (I)(II)
 
 #### Numerical Linear Algebra
-Here are some handouts and take home exams of the course, held by [Prof. Keh-Ming Shyue] at the Graduate Institute of Applied Mathematical Sciences, National Taiwan University.
+Here are some handouts and take home exams of the course, held by Prof. Keh-Ming Shyue at the Graduate Institute of Applied Mathematical Sciences, National Taiwan University.
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Numerical%20Linear%20Algebra%20-%20merged.pdf" align="middle"></iframe>
 </p>
@@ -24,7 +24,7 @@ Here are some handouts and take home exams of the course, held by [Prof. Keh-Min
 #### Overcoming Uphill Challenges for the New Generation Entrepreneurs
 This course was lectured by [Dr. Gary Wang]. Gary previously held many senior executive positions at 3Com in operations, engineering and manufacturing. He served as the VP of 3Com Corporation (former Fortune 500 company) and the president of 3Com APR Operations. In this course we have to do weekly presentations on different topics related. For instance, in the first slides we introduce multidiscipline and multi-model thinking, which are important qualities emphasized by great minds like Herbert A. Simon and Charlie Munger.
 <p style="text-align:center;">
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview" align="middle"></iframe>
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/98%20Multidisciplinary.pdf" align="middle"></iframe>
 </p>
 
 As for the second example, I'd like to show the slides about IoT architectures as follows:
@@ -40,7 +40,7 @@ Lastly, I'd also like to show our presentation slides for introducing balanced s
 <br>
 
 #### Information, Control & Games (Game Theory)
-This course was lead by [Prof. Shi-Chung Chang] in our department, in which I've once presented a paper about Stackelberg games.
+This course was lead by Prof. Shi-Chung Chang in our department, in which I've once presented a paper about Stackelberg games.
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Derivation%20of%20Necessary%20and%20Sufficient%20Conditions%20for%20Single%20Sta.pdf" align="middle"></iframe>
 </p>
@@ -48,13 +48,10 @@ This course was lead by [Prof. Shi-Chung Chang] in our department, in which I've
 <br>
 
 #### Quantum Algorithms
-Below I show the implementation results of the famous Grover's algorithm in 5 qbits. This is a graduate course of computer science department, lectured by [Prof. Wen-Chin Chen].
+Below I show the implementation results of the famous Grover's algorithm in 5 qbits. This is a graduate course of computer science department, lectured by Prof. Wen-Chin Chen.
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf" align="middle"></iframe>
 </p>
 
 [Prof. Borching Su]: https://www.ee.ntu.edu.tw/profile1.php?id=100115
-[Prof. Keh-Ming Shyue]: http://www.math.ntu.edu.tw/~shyue/
 [Dr. Gary Wang]: https://www.svtangel.net/王崇智-gary-wang-ph-d/
-[Prof. Shi-Chung Chang]: https://www.ee.ntu.edu.tw/profile1.php?id=32
-[Prof. Wen-Chin Chen]: http://www.cmlab.csie.ntu.edu.tw/~wcchen/
