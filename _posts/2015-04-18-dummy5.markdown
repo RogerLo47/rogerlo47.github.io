@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Reports and handouts of courses taken"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
-tags: lorem
+date:   2021-03-11 19:46:19
+author: Roger Chi-Jen Lo
+categories: Posts
+tags: courses projects homeworks
 ---
 
 Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Below I also list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
