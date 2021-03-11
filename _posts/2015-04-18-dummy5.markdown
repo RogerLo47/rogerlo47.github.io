@@ -15,29 +15,43 @@ Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Compute
 
 #### Numerical Linear Algebra
 Here are some handouts and take home exams of the course, held by [Prof. Keh-Ming Shyue] at the Graduate Institute of Applied Mathematical Sciences, National Taiwan University.
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Numerical%20Linear%20Algebra%20-%20merged.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Numerical%20Linear%20Algebra%20-%20merged.pdf" align="middle"></iframe>
+</p>
 
 <br>
 
 #### Overcoming Uphill Challenges for the New Generation Entrepreneurs
 This course was lectured by [Dr. Gary Wang]. Gary previously held many senior executive positions at 3Com in operations, engineering and manufacturing. He served as the VP of 3Com Corporation (former Fortune 500 company) and the president of 3Com APR Operations. In this course we have to do weekly presentations on different topics related. For instance, in the first slides we introduce multidiscipline and multi-model thinking, which are important qualities emphasized by great minds like Herbert A. Simon and Charlie Munger.
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview" align="middle"></iframe>
+</p>
+
 As for the second example, I'd like to show the slides about IoT architectures as follows:
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/drive/folders/1zGogT0thCV_CWqqkWFhtlH3YQ26OAAIG?fbclid=IwAR38heHCXZOnsR3H_h3M9AympCUsXSBJoKJKMkt3HPxgiLcxNsv_zuk8-Nc"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/297%20IoT%20Architecture.pdf" align="middle"></iframe>
+</p>
+
 Lastly, I'd also like to show our presentation slides for introducing balanced scorecard.
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/#176%20Balanced%20Scorecard.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/176%20Balanced%20Scorecard.pdf" align="middle"></iframe>
+</p>
 
 <br>
 
 #### Information, Control & Games (Game Theory)
 This course was lead by [Prof. Shi-Chung Chang] in our department, in which I've once presented a paper about Stackelberg games.
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Derivation%20of%20Necessary%20and%20Sufficient%20Conditions%20for%20Single%20Sta.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Derivation%20of%20Necessary%20and%20Sufficient%20Conditions%20for%20Single%20Sta.pdf" align="middle"></iframe>
+</p>
 
 <br>
 
 #### Quantum Algorithms
 Below I show the implementation results of the famous Grover's algorithm in 5 qbits. This is a graduate course of computer science department, lectured by [Prof. Wen-Chin Chen].
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf" align="middle"></iframe>
+</p>
 
 [Prof. Borching Su]: https://www.ee.ntu.edu.tw/profile1.php?id=100115
 [Prof. Keh-Ming Shyue]: http://www.math.ntu.edu.tw/~shyue/
