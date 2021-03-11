@@ -11,15 +11,15 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 
 ### Advanced Algorithms Study Group
 
-More efficient exponential-time algorithms, Zeta transform, and Möbius inversion
+#### More efficient exponential-time algorithms, Zeta transform, and Möbius inversion
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/aasg_021821.pdf">
 </iframe>
 
-Large-scale log-determinant approximation
+#### Large-scale log-determinant approximation
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/log-det-approx.pdf">
 </iframe>
 
-LP, ILP, and randomized rounding
+#### LP, ILP, and randomized rounding
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/S_18_05.pdf">
 </iframe>
 <iframe frameborder="0" scrolling="no"
@@ -27,17 +27,19 @@ LP, ILP, and randomized rounding
      src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/LinearProgrammingDuality-all.pdf">
 </iframe>
 
+<br>
+
 ### Graph Neural Network (GNN) Study Group
 
-Graph convolutional network (GCN) with eigenpooling
+#### Graph convolutional network (GCN) with eigenpooling
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/eigenpooling.pdf">
 </iframe>
 
-Modeling Triadic closure process
+#### Modeling the triadic closure process
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Modeling%20triad%20closure%202.pdf">
 </iframe>
 
-Signed Network Embedding (SiNE) in social media
+#### Signed Network Embedding (SiNE) in social media
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/SiNE%20slides.pdf">
 </iframe>
 
