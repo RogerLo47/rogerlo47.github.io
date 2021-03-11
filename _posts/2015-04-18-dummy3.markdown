@@ -19,24 +19,24 @@ In this post I'd like to show how I shape my mind, mentality and philosophy thro
 
 ### Books that have influenced me significantly
 <ul class="default">
-  <li>Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger[https://www.poorcharliesalmanack.com/pca.php#page1]</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-  <li>List Item 1</li>
-  <li>How Google Works[https://books.google.com.tw/books/about/How_Google_Works.html?id=Yk9zAwAAQBAJ&redir_esc=y]</li>
-  <li>List Item 3</li>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
-  <li>List Item 1</li>
-  <li>List Item 2</li>
-  <li>List Item 3</li>
+  <li>[Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger] by Charlie Munger</li>
+  <li>[Men of Mathematics] by Eric Temple Bell</li>
+  <li>[Sapiens: A Brief History of Humankind] by Yuval Noah Harari</li>
+  <li>[Principles: Life and Work] by Ray Dalio</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[The Essays of Warren Buffett: Lessons for Corporate America] by Warren Buffett</li>
+  <li>[Beating the Street] by Peter Lynch</li>
+  <li>[Reminiscences of a Stock Operator] by Edwin Lefèvre</li>
+  <li>[自伝 波乱を生きる―相場に賭けた60年] by Ginzō Korekawa (是川銀藏)</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[How Google Works] by Eric Schmidt</li>
 </ul>
 
 Besides, I'd also like to show my wish list. I hope I can squeeze out some free time, get a cup of coffee, and go through these books in the future.
