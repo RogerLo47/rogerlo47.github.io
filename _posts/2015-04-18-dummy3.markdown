@@ -19,8 +19,11 @@ In this post I'd like to show how I shape my mind, mentality and philosophy thro
 
 ### Books that have influenced me significantly
 Most books in this list are translated into multiple languages. In order to be international, I'll show the English version here. The most strenuous one for me in the list below is <<The Alchemy of Finance>> by George Soros.
+  
 <ul>
+  <li>[Wikipedia]</li>
   <li>[Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger] by Charlie Munger</li>
+  <li>[The One Device: The Secret History of the iPhone] by Brian Merchant</li>
   <li>[Men of Mathematics] by Eric Temple Bell</li>
   <li>[Sapiens: A Brief History of Humankind] by Yuval Noah Harari</li>
   <li>[Principles: Life and Work] by Ray Dalio</li>
@@ -48,14 +51,26 @@ Most books in this list are translated into multiple languages. In order to be i
 
 <br>
 
-Besides, I'd also like to show my wish list. I hope I can squeeze out some free time, get a cup of coffee, and go through these books in the future.
+Besides, I'd also like to show my wish list. Many of them are displayed in the souvenir shop in the [Computer History Museum], Mountain View, CA. I hope I can squeeze out some free time, get a cup of coffee, and go through these books in the future.
 
 <ul>
   <li>[Philosophy of Information]</li>
   <li>[The Information: A History, a Theory, a Flood] by James Gleick</li>
-  <li>[How Google Works] by Eric Schmidt</li>
-  <li>[How Google Works] by Eric Schmidt</li>
-  <li>[How Google Works] by Eric Schmidt</li>
-  <li>[How Google Works] by Eric Schmidt</li>
+  <li>[Marconi: The Man Who Networked the World] by Marc Raboy</li>
+  <li>[Starting Up Silicon Valley: How ROLM Became a Cultural Icon and Fortune 500 Company] by Katherine Maxfield</li>
+  <li>[Troublemakers: Silicon Valley's Coming of Age] by Leslie Berlin</li>
+  <li>[Where Wizards Stay Up Late: The Origins Of The Internet] by Katie Hafner</li>
+  <li>[Made in Japan: Akio Morita and Sony] by Akio Morita (盛田昭夫)</li>
 </ul>
 
+By the way, here's an interesting commercial of American Express Card featured Akio Morita at 1985. Note that in the same year, the Plaza Accord was signed at the Plaza Hotel in NYC, between United States, United Kingdom, French Republic, West Germany, and Japan. After that, Japan's real estate and stock market greatly inflated. According to Forbes, Yoshiaki Tsutsumi (堤義明) and Taikichiro Mori (森泰吉郎) had become the world's richest person, respectively. The Rockefeller Center was even sold to the Mitsubishi Real Estate by 200 billion yen. The bubble finally burst and stagnated Japan's economy in 1991. Another interesting thing is: the Plaza Hotel was sold to real estate developer Donald Trump in March 1988 following a handshake agreement; the sale was valued at either $390 million or $410 million. These information were reconstructed from several business books in the list above, as well as the [Wikipedia]. As Shannon once said: "I just wondered how things were put together."
+
+
+<p style="text-align:center;">
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=MG_k7dmt0FQ" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle">
+</iframe>
+</p>
+
+[Computer History Museum]: https://computerhistory.org
+[Wikipedia]: https://en.wikipedia.org/wiki/Main_Page
