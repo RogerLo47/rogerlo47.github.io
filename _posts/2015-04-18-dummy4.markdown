@@ -25,7 +25,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 </ul>
 
 <p style="text-align:center;">
-<img src="https://github.com/RogerLo47/RogerLo47.github.io/blob/3481587f280d95ddeb1cbeadacdaf7a8d1ccb323/assets/yunchianight.png" width="500" align="middle">
+![ycnight](/assets/yunchianight.png)
 </p>
 
 <h3>Secondary, National Chiayi Senior High School</h3>
