@@ -24,7 +24,9 @@ Beyond intensive academic tasks, I also actively join student activities, especi
   <li>Held several affairs with hundreds of people under my organization, like:</li>
 </ul>
 
+<p style="text-align:center;">
 <img src="https://github.com/RogerLo47/RogerLo47.github.io/blob/3481587f280d95ddeb1cbeadacdaf7a8d1ccb323/assets/yunchianight.png" width="500" align="middle">
+</p>
 
 <h3>Secondary, National Chiayi Senior High School</h3>
 <ul>
@@ -32,4 +34,6 @@ Beyond intensive academic tasks, I also actively join student activities, especi
   <li>Third Award in Mathematics, Taiwan International Science Fair (TISF)</li>
 </ul>
 
+<p style="text-align:center;">
 <img src="https://i.epochtimes.com/assets/uploads/2013/08/1308060536412357-600x400.jpg" width="500" align="middle">
+</p>
