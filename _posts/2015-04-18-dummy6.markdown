@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Presentation slides of study groups I joined"
+title:  "Presentation slides for study groups I joined"
 date:   2021-03-11 20:22:29
 author: Roger Chi-Jen Lo
 categories: Posts
