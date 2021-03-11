@@ -11,7 +11,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 
 <h3>Masters, Naitonal Taiwan University</h3>
 <ul>
-  <li>President of Students Association, Graduate Institute of Communication Engoneering</li>
+  <li>President of Students Association, Graduate Institute of Communication Engneering</li>
   <li>Valedictorian, Graduate Institute of Communication Engoneering (expected)</li>
   <li>Deliberative Group, IEEE Global Communications Conference 2020</li>
 </ul>
@@ -31,3 +31,5 @@ Beyond intensive academic tasks, I also actively join student activities, especi
   <li>Ranked top 0.3% in national college entrance exam, scored 436 out of full marks 500</li>
   <li>Third Award in Mathematics, Taiwan International Science Fair (TISF)</li>
 </ul>
+
+<img src="https://i.epochtimes.com/assets/uploads/2013/08/1308060536412357-600x400.jpg" width="500" align="middle">
