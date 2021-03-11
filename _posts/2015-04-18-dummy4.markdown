@@ -7,7 +7,7 @@ categories: Posts
 tags: leaderships awards activities
 ---
 
-Beyond intensive academic tasks, I also actively join student activities, especially during my freshman and sophomore years. I did build up some qualities through these events, especially when I had to deal with people from very different backgrounds and mindsets. My social abilities was finely established in those years, and may help me a lot lifelong. Nevertheless, I'd like to focus fully into acadmic researches in the coming years abroad.
+Beyond intensive academic tasks, I also actively join student activities, especially during my freshman and sophomore years. I did build up some qualities through these events, especially when I had to deal with people from very different backgrounds and mindsets. My social abilities was finely established in those years, and may help me a lot lifelong. Nevertheless, I intend to dive fully into acadmic in the coming years abroad.
 
 <h3>Masters, National Taiwan University</h3>
 <ul>
@@ -25,7 +25,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 </ul>
 
 <p style="text-align:center;">
-![yunchianight](/assets/yunchianight.png)
+<img src="https://i.epochtimes.com/assets/yunchianight.png" width="500" align="middle">
 </p>
 
 <h3>Secondary, National Chiayi Senior High School</h3>
