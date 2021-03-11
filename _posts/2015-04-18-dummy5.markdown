@@ -7,7 +7,7 @@ categories: Dummy
 tags: lorem
 ---
 
-Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously. Below I list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
+Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Below I also list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
 
 Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus#, Information Theory# (# for audit)
 
