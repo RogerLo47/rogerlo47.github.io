@@ -9,7 +9,9 @@ tags: lorem
 
 Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Below I also list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
 
-Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus#, Information Theory# (# for audit)
+Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation
+
+I've taken 37 credits in total during my masters studies while the standard is 24. Beyond the course taken, I've audit Information Theory and Stochastic Calculus.
 
 Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Computer Networking, Probability and Statistics, Principle of Communications, Discrete Mathematics, Complex Variables, Signals and Systems, Computer Programming, Linear Algebra, Calculus (I)(II)
 
