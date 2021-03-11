@@ -20,7 +20,7 @@ Here are some handouts and take home exams of the course, held by [Prof. Keh-Min
 <br>
 
 #### Overcoming Uphill Challenges for the New Generation Entrepreneurs
-This course was lectured by [Dr. Gary Wang]. Gary previously held many senior executive positions at 3Com in operations, engineering and manufacturing. He served as the VP of 3Com Corporation and the president of 3Com APR Operations. In this course we have to do weekly presentations on different topics related. For instance, in the first slides we introduce multidiscipline and multi-model thinking, which are important qualities emphasized by great minds like Herbert A. Simon and Charlie Munger.
+This course was lectured by [Dr. Gary Wang]. Gary previously held many senior executive positions at 3Com in operations, engineering and manufacturing. He served as the VP of 3Com Corporation (former Fortune 500 company) and the president of 3Com APR Operations. In this course we have to do weekly presentations on different topics related. For instance, in the first slides we introduce multidiscipline and multi-model thinking, which are important qualities emphasized by great minds like Herbert A. Simon and Charlie Munger.
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview"></iframe>
 As for the second example, I'd like to show the slides about IoT architectures as follows:
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/drive/folders/1zGogT0thCV_CWqqkWFhtlH3YQ26OAAIG?fbclid=IwAR38heHCXZOnsR3H_h3M9AympCUsXSBJoKJKMkt3HPxgiLcxNsv_zuk8-Nc"></iframe>
