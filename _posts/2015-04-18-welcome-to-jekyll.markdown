@@ -8,20 +8,6 @@ tags:	personal information purpose
 cover:  "/assets/instacode.png"
 ---
 
-
-<!-- 
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
-cover:  "/assets/instacode.png"
----
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
 ## Adding New Posts
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -71,11 +57,7 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
 
 <a href="//bencentra.com/assets/images/falcon9_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
   <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
-</a>
-
-For more information, check out the [Lightbox][lightbox] website.
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+</a>\
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
@@ -84,4 +66,3 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
--->
