@@ -11,7 +11,7 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 
 ### Advanced Algorithms Study Group
 
-#### More efficient exponential-time algorithms, Zeta transform, and Möbius inversion
+#### Improving exponential-time algorithms, Zeta transform, and Möbius inversion
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/aasg_021821.pdf">
 </iframe>
 
