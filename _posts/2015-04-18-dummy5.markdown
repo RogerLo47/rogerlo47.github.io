@@ -42,7 +42,7 @@ Lastly, I'd also like to show our presentation slides for introducing balanced s
 <br>
 
 #### Information, Control & Games (Game Theory)
-This course was lead by Prof. Shi-Chung Chang in our department, in which I've once presented a paper about Stackelberg games.
+This course was led by Prof. Shi-Chung Chang in our department, in which I've once presented a paper about Stackelberg games.
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Derivation%20of%20Necessary%20and%20Sufficient%20Conditions%20for%20Single%20Sta.pdf" align="middle"></iframe>
 </p>
