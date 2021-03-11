@@ -1,15 +1,37 @@
 ---
 layout: post
-title:  "Handouts and reports of courses taken"
+title:  "Reports and handouts of courses taken"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
 tags: lorem
 ---
 
-Here are some examples of my homeworks, final reports, and presentations I've done in the lectures I've taken previously. Below I list out the courses I've taken through my masters and undergradutes.
+Here are some examples of my homeworks, final reports, and presentations I've done in the lectures I've taken previously. Below I list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
 
 Advanced (Straight A's): Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Stochastic Calculus#, Information Theory# (# for audit)
 
 Undergraduate: Algorithms, Data Structures, Graph Theory, Matrix Theory, Computer Networking, Probability and Statistics, Principle of Communications, Discrete Mathematics, Complex Variables, Signals and Systems, Computer Programming, Linear Algebra, Calculus (I)(II)
 
+#### Numerical Linear Algebra
+Here are some handouts and take home exams of the course, held by [Prof. Keh-Ming Shyue] at the Graduate Institute of Applied Mathematical Sciences, National Taiwan University.
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview"></iframe>
+
+#### Overcoming Uphill Challenges for the New Generation Entrepreneurs
+This course was lectured by [Dr. Gary Wang]. Gary previously held many senior executive positions at 3Com in operations, engineering and manufacturing. He served as the VP of 3Com Corporation and the president of 3Com APR Operations. In this course I present the introduce "multidiscipline" and "multi-model thinking", important qualities emphasized by great minds like Herbert A. Simon and Charlie Munger.
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://drive.google.com/file/d/<<FILE_ID>>/preview"></iframe>
+
+#### Information, Control & Games (Game Theory)
+This course was lead by [Prof. Shi-Chung Chang], in which I once presented a paper about Stackelberg games.
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Derivation%20of%20Necessary%20and%20Sufficient%20Conditions%20for%20Single%20Sta.pdf"></iframe>
+
+#### Quantum Algorithms
+Below I show the implementation results of the famous Grover's algorithm in 5 qbits. This is a graduate course of computer science department, lectured by [Prof. Wen-Chin Chen]
+#### Quantum Algorithms
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf"></iframe>
+
+[Prof. Borching Su]: https://www.ee.ntu.edu.tw/profile1.php?id=100115
+[Prof. Keh-Ming Shyue]: http://www.math.ntu.edu.tw/~shyue/
+[Dr. Gary Wang]: https://www.svtangel.net/王崇智-gary-wang-ph-d/
+[Prof. Shi-Chung Chang]: https://www.ee.ntu.edu.tw/profile1.php?id=32
+[Prof. Wen-Chin Chen]: http://www.cmlab.csie.ntu.edu.tw/~wcchen/
