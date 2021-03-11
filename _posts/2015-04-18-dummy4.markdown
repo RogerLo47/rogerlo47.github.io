@@ -1,17 +1,29 @@
 ---
 layout: post
-title:  "Dummy Post 4"
-date:   2015-04-18 08:43:59
-author: Ben Centra
+title:  "Leaderships, awards, extracurricular activities"
+date:   2021-03-11 18:01:21
+author: Roger Chi-Jen Lo
 categories: Dummy
 tags: ipsum
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+Beyond intensive academic tasks, I also actively join the
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3>Masters, Naitonal Taiwan University</h3>
+<ul>
+  <li>President of Students Association, Graduate Institute of Communication Engoneering</li>
+  <li>Valedictorian, Graduate Institute of Communication Engoneering (expected)</li>
+  <li>IEEE Global Communications Conference 2020, Deliberative Group</li>
+</ul>
+
+<h3>Bachelor, Naitonal Taiwan University</h3>
+<ul>
+  <li>Representative of EECS College in the Students Association, National Taiwan University</li>
+  <li>Honorable Mention, Mobile Heroes, Ministry of Economic Affairs, Taiwan</li>
+</ul>
+
+<h3>High school, National Chiayi Senior High School</h3>
+<ul>
+  <li>Ranked top 0.3% in national college entrance exam, scored 436 out of full marks 500</li>
+  <li>Third Award in Mathematics, Taiwan International Science Fair (TISF)</li>
+</ul>
