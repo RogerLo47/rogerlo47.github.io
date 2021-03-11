@@ -12,27 +12,52 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 ### Advanced Algorithms Study Group
 
 #### Improving exponential-time algorithms, Zeta transform, and Möbius inversion
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/aasg_021821.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/aasg_021821.pdf" align="middle"></iframe>
+</p>
+
+<br>
 
 #### Large-scale log-determinant approximation
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/log-det-approx.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/log-det-approx.pdf" align="middle"></iframe>
+</p>
+
+<br>
 
 #### LP, ILP, and randomized rounding
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/S_18_05.pdf"></iframe>
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/LinearProgrammingDuality-all.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/S_18_05.pdf" align="middle"></iframe>
+</p>
+
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/LinearProgrammingDuality-all.pdf" align="middle"></iframe>
+</p>
 
 <br>
 
 ### Graph Neural Network (GNN) Study Group
 
 #### Graph convolutional network (GCN) with eigenpooling
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/eigenpooling.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/eigenpooling.pdf" align="middle"></iframe>
+</p>
+
+<br>
 
 #### Modeling the triadic closure process
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Modeling%20triad%20closure%202.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Modeling%20triad%20closure%202.pdf" align="middle"></iframe>
+</p>
+
+<br>
 
 #### Signed Network Embedding (SiNE) in social media
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/SiNE%20slides.pdf"></iframe>
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/SiNE%20slides.pdf" align="middle"></iframe>
+</p>
+
+<br>
 
 [Advanced Algorithms Study Group]: https://shaohengko.github.io/studygroup/
 [Graph Neural Networks (GNN) Study Group]: https://hackmd.io/Ga3mxIQyTrSVYLxskGG1mQ
