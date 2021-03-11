@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Handouts and Reports of Lectures Taken"
+title:  "Handouts and reports of courses taken"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
