@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Welcome to my homepage!"
-date:   2021-03-11 14:03:23
+date:   2021-03-18 10:00:00
 author: Roger Chi-Jen Lo
-categories: Jekyll
+categories: Stickies
 tags:	personal information purpose
 cover:  "/assets/instacode.png"
 ---
