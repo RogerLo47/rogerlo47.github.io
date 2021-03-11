@@ -1,5 +1,17 @@
 ---
 layout: post
+title:  "Welcome to my homepage!"
+date:   2021-03-11 14:03:23
+author: Roger Chi-Jen Lo
+categories: Jekyll
+tags:	personal information purpose
+cover:  "/assets/instacode.png"
+---
+
+
+<!-- 
+---
+layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
@@ -72,3 +84,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+-->
