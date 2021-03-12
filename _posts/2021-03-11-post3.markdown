@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reports, HWs & implementations of courses I've taken"
+title:  "Works & implementations for courses I've taken"
 date:   2021-03-11 19:46:19
 author: Roger Chi-Jen Lo
 categories: Posts
