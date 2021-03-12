@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I shape my mind, mentality and philosophy"
-date:   2021-03-12 18:02:31
+date:   2021-03-10 18:02:31
 author: Roger Chi-Jen Lo
 categories: Posts
 ---
