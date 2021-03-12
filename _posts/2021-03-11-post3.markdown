@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Reports and handouts of courses I've taken"
+title:  "Reports, projects & HWs of courses I've taken"
 date:   2021-03-11 19:46:19
 author: Roger Chi-Jen Lo
 categories: Posts
 tags: courses projects homeworks
 ---
 
-Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Below I also list out the courses I've taken through my masters and undergradutes. I am currently serving as the TA of convex optimization lectured by Prof. Borching Su.
+Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Most courses require certain level of implementation projects, yet it's quite redundant to show them on the website. To protect professors' intellectual properties, some materials would not be shown here as well. Particularly when I am currently serving as the TA of convex optimization lectured by [Prof. Borching Su]. Below I list out the related courseworks through my masters and undergradutes.
 
 Advanced: Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Research (I)-(IV)
 
@@ -50,9 +50,21 @@ This course was led by Prof. Shi-Chung Chang in our department, in which I've on
 <br>
 
 #### Quantum Algorithms
-Below I show the implementation results of the famous Grover's algorithm in 5 qbits. This is a graduate course of computer science department, lectured by Prof. Wen-Chin Chen.
+Below I show the final report on quantum circuit learning (QCL) and the implementation of the famous Grover's algorithm in 5 qbits with IBM Qiskit. This is a graduate course of computer science department, lectured by Prof. Wen-Chin Chen.
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Quantum%20Circuits%20for%20Machine%20Learning%20and%20Reinforcement%20Learning.pdf" align="middle"></iframe>
+</p>
+
+<br>
+
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf" align="middle"></iframe>
+</p>
+
+#### Convex Optimization
+This is a course lectured by [Prof. Borching Su]. This semester, I serve as the TA of this course since I got A+ in the previous academic year.
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/cvxmerged.pdf" align="middle"></iframe>
 </p>
 
 [Prof. Borching Su]: https://www.ee.ntu.edu.tw/profile1.php?id=100115
