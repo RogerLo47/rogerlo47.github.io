@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reports and handouts of courses taken"
+title:  "Reports and handouts of courses I've taken"
 date:   2021-03-11 19:46:19
 author: Roger Chi-Jen Lo
 categories: Posts
