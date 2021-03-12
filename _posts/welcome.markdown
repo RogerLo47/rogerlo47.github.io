@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my homepage!"
+title:  "Welcome to Roger's website!"
 date:   2021-03-18 10:00:00
 author: Roger Chi-Jen Lo
 categories: Stickies
@@ -10,7 +10,7 @@ cover:  "/assets/backtothefuture.jpg"
 
 Welcome to Roger's personal website. My Taiwanese name in Mandarin is 羅啟仁 (Lo Chi-Jen). The main purpose of building this website is to enhance my applications towards the MPhil/PhD programs. Professors can access to not only my personal information, my CV, yet many more dimensions of me through simply survey this site. Since Professors are usually very busy and have lots of tasks to deal with beyond researches, I hope this simple, concise, and clear personal website can reduce their burden. I started building this website after receiving the interview request in 9, March, from the University of Cambridge. Apart from this I've also applied for other great universities like the University of Edinburgh, UCL, King's and Imperial. All final results are not revealed so far.
 
-I set up a very simple self introduction in [About]. My research progress lies in [Researches]. Please access all my posts through the homepage or [Archives], containing several posts on my works, presentation slides, courses taken, extracurricular performances, and specificially there's a post about how I build up my mindset and philosophy. Last but not least, you may recognize a more stereoscopic me though my treasured [Readings], [Quotes], and [Photos]. Thank you for browsing my site. I hope you like it!
+I set up a very simple self introduction in [About]. My research progress lies in [Research]. Please access all my posts through the homepage or [Archives], containing several posts on my works, presentation slides, courses taken, extracurricular performances, and specificially there's a post about how I build up my mindset and philosophy. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing my site. I hope you like it!
 
 <a href="/assets/niagarafalls.jpg" data-lightbox="falcon9-large" data-title="Profile photo taken at Niagara Falls, Canada, at 2018">
   <img src="/assets/niagarafalls.jpg" title="Profile photo taken at Niagara Falls, Canada, at 2018">
@@ -18,7 +18,7 @@ I set up a very simple self introduction in [About]. My research progress lies i
 
 [About]: https://rogerlo47.github.io/about/
 [Archives]: https://rogerlo47.github.io/archives/
-[Researches]: https://rogerlo47.github.io/researches/
-[Readings]: https://rogerlo47.github.io/readings/
+[Research]: https://rogerlo47.github.io/researches/
+[Reading]: https://rogerlo47.github.io/readings/
 [Quotes]: https://rogerlo47.github.io/quotes/
 [Photos]: https://rogerlo47.github.io/photos/
