@@ -61,6 +61,8 @@ Below I show the final report on quantum circuit learning (QCL) and the implemen
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/Grovers_5Qubits.pdf" align="middle"></iframe>
 </p>
 
+<br>
+
 #### Convex Optimization
 This is a course lectured by [Prof. Borching Su]. This semester, I serve as the TA of this course since I got A+ in the previous academic year.
 <p style="text-align:center;">
