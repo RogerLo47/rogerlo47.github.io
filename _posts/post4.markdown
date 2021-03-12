@@ -30,7 +30,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 
 <h3>Secondary, National Chiayi Senior High School</h3>
 <ul>
-  <li>Ranked top 0.3% in national college entrance exam, scored 436 out of full marks 500</li>
+  <li>Ranked top 0.3% in the national college entrance exam, among 66 thousands total attendees</li>
   <li>Third Award in Mathematics, Taiwan International Science Fair (TISF)</li>
 </ul>
 
