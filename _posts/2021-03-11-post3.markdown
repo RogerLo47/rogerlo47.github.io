@@ -7,7 +7,7 @@ categories: Posts
 tags: courses projects homeworks
 ---
 
-Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Most courses require certain level of implementation projects, yet it's quite redundant to show them on the website. To protect professors' intellectual properties, some materials would not be shown here as well. Particularly when I am currently serving as the TA of convex optimization lectured by [Prof. Borching Su]. Below I list out the related courseworks through my masters and undergradutes.
+Here are several samples of my works, including homeworks, final projects, and presentations I've done in the lectures taken previously, from Sep, 2019 to June, 2020. Most courses require certain level of implementation projects, some codes are shown in the pdf files while some are not. To protect professors' intellectual properties, certain materials would not be exhibited here as well, especially when I am currently serving as the TA of convex optimization lectured by [Prof. Borching Su]. Below I list out the related courseworks through my masters and undergradutes.
 
 Advanced: Queueing Theory, Game Theory, Matrix Computations, Numerical Linear Algebra, Convex Optimization, Quantum Algorithms, Selected Topics in Engineering Mathematics, Overcoming Uphill Challenges for the New Generation Entrepreneurs, Applications of Quantum Computation, Computer Simulation, Research (I)-(IV)
 
