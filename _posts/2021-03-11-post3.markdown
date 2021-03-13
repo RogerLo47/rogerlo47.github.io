@@ -71,7 +71,7 @@ This is a course lectured by [Prof. Borching Su]. This semester, I serve as the 
 
 <hr>
 
-I've also joined several online courses on [edX], [Coursera], and [Udacity]. edX is an online course platform started by MIT. On the other hand, Coursera and Udacity were launched by Prof. Andrew Ng and Prof. Sebastian Thrun, respectively. Both of them are Professors from the CS Department of Stanford.
+I've also joined several online courses on [edX], [Coursera], and [Udacity]. edX is an online course platform started by MIT. On the other hand, Coursera and Udacity were launched by Prof. Andrew Ng and Prof. Sebastian Thrun, respectively. Both of them are from the CS Department of Stanford.
 
 #### MITx MicroMasters Program in Supply Chain Management
 
@@ -81,13 +81,9 @@ Specifically, I've done the [MITx MicroMasters Program on Supply Chain Managemen
 <iframe width="640" height="480" src="https://www.youtube.com/embed/wKs7d9Gfdcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<br>
-
 #### Deep Learning Specialization on Coursera
 
 I earned my [credentials] through taking this course given by Prof. Andrew Ng. The content of these courses constitutes [Stanford's CS230], not surprizingly.
-
-<br>
 
 #### Self-Driving Car Engineer Nanodegree provided by Udacity 
 
