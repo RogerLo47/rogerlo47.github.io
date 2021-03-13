@@ -13,7 +13,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 <ul>
   <li>President of Students Association, Graduate Institute of Communication Engneering</li>
   <li>Valedictorian, Graduate Institute of Communication Engoneering (expected)</li>
-  <li>Deliberative Group, IEEE Global Communications Conference 2020</li>
+  <li>Deliberative Group, IEEE Global Communications Conference (GLOBECOM) 2020</li>
   <li>Moderator, End of the year party, Graduate Institute of Communication Engneering</li>
 </ul>
 
