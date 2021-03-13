@@ -14,7 +14,12 @@ Beyond intensive academic tasks, I also actively join student activities, especi
   <li>President of Students Association, Graduate Institute of Communication Engneering</li>
   <li>Valedictorian, Graduate Institute of Communication Engoneering (expected)</li>
   <li>Deliberative Group, IEEE Global Communications Conference 2020</li>
+  <li>Moderator, End of the year party, Graduate Institute of Communication Engneering</li>
 </ul>
+
+<p style="text-align:center;">
+<img src="https://github.com/RogerLo47/RogerLo47.github.io/blob/c0f050132fbc9c41926f75544223efc373a2ce9f/assets/IMG_4634.jpg" width="500" align="middle">
+</p>
 
 <h3>Bachelor, National Taiwan University</h3>
 <ul>
@@ -25,7 +30,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 </ul>
 
 <p style="text-align:center;">
-<img src="https://i.epochtimes.com/assets/yunchianight.png" width="500" align="middle">
+<img src="https://github.com/RogerLo47/RogerLo47.github.io/blob/c0f050132fbc9c41926f75544223efc373a2ce9f/assets/yunchianight.png" width="500" align="middle">
 </p>
 
 <h3>Secondary, National Chiayi Senior High School</h3>
