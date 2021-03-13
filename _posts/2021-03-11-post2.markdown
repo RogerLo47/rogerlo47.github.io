@@ -18,7 +18,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 </ul>
 
 <p style="text-align:center;">
-<img src="assets/IMG_4634.jpg" width="500" align="middle">
+<img src="/assets/IMG_4634.png" width="500" align="middle">
 </p>
 
 <h3>Bachelor, National Taiwan University</h3>
@@ -30,7 +30,7 @@ Beyond intensive academic tasks, I also actively join student activities, especi
 </ul>
 
 <p style="text-align:center;">
-<img src="assets/yunchianight.png" width="500" align="middle">
+<img src="/assets/yunchianight.png" width="500" align="middle">
 </p>
 
 <h3>Secondary, National Chiayi Senior High School</h3>
