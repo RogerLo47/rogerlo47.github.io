@@ -75,26 +75,24 @@ I've also joined several online courses on [edX], [Coursera], and [Udacity]. edX
 
 #### MITx MicroMasters Program in Supply Chain Management
 
-Specifically, I've done the [MITx MicroMasters Program on Supply Chain Management]. Offered by MITx and edX, these series of courses provide an advanced, professional, graduate-level foundation in Supply Chain Management with the same rigor and relevance as the material taught on campus. These optimization problems and different aspects of supply chains are quite related to my research field on communication systems. With knowledges on supply chain, industrial management, and communication engineering, I would be the perfect one to make some impactful research on cyber-physical systems.
+Specifically, I've done the [MITx MicroMasters Program on Supply Chain Management]. Offered by MITx and edX, these series of courses provide an advanced, professional, graduate-level foundation in Supply Chain Management with the same rigor and relevance as the material taught on campus. These optimization problems and different aspects of supply chains are quite related to my research field on communication systems. With knowledges on supply chain, industrial management, and communication engineering, I would be the perfect one to make some impactful research on next-generation cyber-physical systems.
 
 <p style="text-align:center;">
-<iframe width="747" height="420" src="https://www.youtube.com/embed/wKs7d9Gfdcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" src="https://www.youtube.com/embed/wKs7d9Gfdcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <br>
 
 #### Deep Learning Specialization on Coursera
 
-<p style="text-align:center;">
-<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://www.coursera.org/account/accomplishments/specialization/YUQXE7YT2NKM" align="middle"></iframe>
-</p>
+I earned my [credentials] through taking this course given by Prof. Andrew Ng. The content of these courses constitutes [Stanford's CS230], not surprizingly.
 
 <br>
 
-Recently, I start the [Self-Driving Car Engineer Nanodegree Program] on Udacity since I love cars very much. Since I'm mostly writing codes with Matlab this year, I need something to remind me of C++. Through these projects, I'll be well-prepared for the upcoming studies in UK.
+Recently, I started the [Self-Driving Car Engineer Nanodegree Program] on Udacity since I love cars very much. Since I'm mostly writing codes with Matlab this year, I need something to remind me of C++. Through these projects, I'll be well-prepared for the upcoming studies in UK.
 
 <p style="text-align:center;">
-<iframe width="1065" height="599" src="https://www.youtube.com/embed/saVZ_X9GfIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
+<iframe width="640" src="https://www.youtube.com/embed/saVZ_X9GfIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
 </p>
 
 <br>
@@ -105,4 +103,6 @@ Recently, I start the [Self-Driving Car Engineer Nanodegree Program] on Udacity 
 [Coursera]: https://www.coursera.org
 [Udacity]: https://www.udacity.com
 [MITx MicroMasters Program on Supply Chain Management]: https://micromasters.mit.edu/scm/
+[credentials]: https://www.coursera.org/account/accomplishments/specialization/YUQXE7YT2NKM
+[Stanford's CS230]: https://cs230.stanford.edu/syllabus/
 [Self-Driving Car Engineer Nanodegree Program]: https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
