@@ -38,6 +38,11 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 
 ### Graph Neural Network (GNN) Study Group
 
+#### An overview of GNNs on Natural Language Processing (NLP) problems
+<p style="text-align:center;">
+<iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/GNNs%20on%20NLP.pdf" align="middle"></iframe>
+</p>
+
 #### Graph convolutional network (GCN) with eigenpooling
 <p style="text-align:center;">
 <iframe frameborder="0" scrolling="no" width="640" height="480" src="https://tonic.ee.ntu.edu.tw/depot/rogerlo47/eigenpooling.pdf" align="middle"></iframe>
