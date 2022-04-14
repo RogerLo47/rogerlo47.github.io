@@ -2,15 +2,17 @@
 layout: post
 title:  "Welcome to Roger's website!"
 date:   2021-03-12 21:18:24
-author: Roger Chi-Jen Lo
+author: Chi-Jen Roger Lo (Cantab)
 categories: Stickies
 tags:	personal information purpose
 cover:  "/assets/backtothefuture.jpg"
 ---
 
-Welcome to Roger's website. My Taiwanese name in Mandarin is 羅啟仁 (Lo Chi-Jen). The main purpose of building this website is to enhance my applications towards the MPhil/PhD programs. Professors can access to not only my personal information, my CV, yet many more dimensions of me through simply survey this site. Since Professors are usually very busy and have lots of tasks to deal with beyond researches, I hope this simple, concise, and clear personal website can reduce their burden. I started building this website after receiving the interview request in 9, March, from the University of Cambridge. Apart from this I've also applied for other great universities like the University of Edinburgh, UCL, King's and Imperial. All final results are not revealed so far.
+Welcome to Roger's website. My Taiwanese name in Mandarin is 羅啟仁 (Lo Chi-Jen). I'm currently a PhD student in the Information Engineering Department, University of Cambridge. I wrote a brief self-introduction in [About]. My research lies in [Research]. This website also contains several records of my relevant course works, presentation slides, extracurricular performances. Please access these posts through [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you very much for browsing my website. I hope you like it! 
 
-I wrote a brief self-introduction in [About]. My research progress lies in [Research]. This website also contains several records of my relevant course works, presentation slides, extracurricular performances, and specificially there's a post about how I build up my mindset and philosophy. Please access these posts through [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you very much for browsing my website. I hope you like it!
+<!--- Welcome to Roger's website. My Taiwanese name in Mandarin is 羅啟仁 (Lo Chi-Jen). The main purpose of building this website is to enhance my applications towards the MPhil/PhD programs. Professors can access to not only my personal information, my CV, yet many more dimensions of me through simply survey this site. Since Professors are usually very busy and have lots of tasks to deal with beyond researches, I hope this simple, concise, and clear personal website can reduce their burden. I started building this website after receiving the interview request in 9, March, from the University of Cambridge. Apart from this I've also applied for other great universities like the University of Edinburgh, UCL, King's and Imperial. All final results are not revealed so far.
+
+I wrote a brief self-introduction in [About]. My research progress lies in [Research]. This website also contains several records of my relevant course works, presentation slides, extracurricular performances, and specificially there's a post about how I build up my mindset and philosophy. Please access these posts through [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you very much for browsing my website. I hope you like it! -->
 
 <a href="/assets/niagarafalls.jpg" data-lightbox="falcon9-large" data-title="Profile photo taken at Niagara Falls, Canada, at 2018">
   <img src="/assets/niagarafalls.jpg" title="Profile photo taken at Niagara Falls, Canada, at 2018">
