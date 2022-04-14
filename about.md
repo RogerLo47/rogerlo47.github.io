@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Roger Chi-Jen Lo (羅啟仁) lives in Taipei, Taiwan. He is a M.S. student and President of Students Association at the [Graduate Institute of Communication Engineering, National Taiwan University]; he received B.S. from the [Department of Electrical Engineering, National Taiwan University]. He is currently under the supervision of [Prof. Hung-Yun Hsieh], conducting research on wireless communication and internet-of-things, especially on information-centric stochastic network optimization. For any other details, please survey his [CV], [LinkedIn], or contact him via email. : )
+Chi-Jen Roger Lo (羅啟仁) came from Taiwan. He is a Ph.D. student of the [Information Engineering Division] at [University of Cambridge]; he received M.S. at the [Graduate Institute of Communication Engineering] and B.S. from the [Department of Electrical Engineering], both from [National Taiwan University]. He is currently under the supervision of [Prof. Hung-Yun Hsieh], conducting research on wireless communication and internet-of-things, especially on information-centric stochastic network optimization. For any other details, please survey his [CV], [LinkedIn], or contact him via email. : )
+
+<!--- Roger Chi-Jen Lo (羅啟仁) lives in Taipei, Taiwan. He is a M.S. student and President of Students Association at the [Graduate Institute of Communication Engineering, National Taiwan University]; he received B.S. from the [Department of Electrical Engineering, National Taiwan University]. He is currently under the supervision of [Prof. Hung-Yun Hsieh], conducting research on wireless communication and internet-of-things, especially on information-centric stochastic network optimization. For any other details, please survey his [CV], [LinkedIn], or contact him via email. : ) --->
 
 ![NTU](/assets/NTU.jpg)
 
-[Graduate Institute of Communication Engineering, National Taiwan University]: https://comm.ntu.edu.tw
-[Department of Electrical Engineering, National Taiwan University]: https://web.ee.ntu.edu.tw
-[Prof. Hung-Yun Hsieh]: https://www.ee.ntu.edu.tw/profile1.php?teacher_id=942014
-[CV]: https://tonic.ee.ntu.edu.tw/depot/rogerlo47/CHI-JEN%20LO%20CV_2.pdf
+[Information Engineering Division]: http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering
+[University of Cambridge]: https://www.cam.ac.uk
+[Graduate Institute of Communication Engineering]: https://comm.ntu.edu.tw
+[Department of Electrical Engineering]: https://web.ee.ntu.edu.tw
+[National Taiwan University]: https://www.ntu.edu.tw/english/
+[Prof. Sumeetpal S. Singh]: http://www.eng.cam.ac.uk/profiles/sss40
+[CV]:
 [LinkedIn]: https://www.linkedin.com/in/rogerlo47/
