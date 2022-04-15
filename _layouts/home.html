@@ -6,7 +6,11 @@
   <body>
 
     {% include header.html %}
-    
+
+    <div class="page-content">
+        {{ content }}
+    </div>
+        
     <div class="row">
       <ul class="timeline">
         
@@ -203,10 +207,6 @@
           <li class="clearfix no-float"></li>
         
       </ul>
-    </div>
-
-    <div class="page-content">
-        {{ content }}
     </div>
     
     {% include footer.html %}
