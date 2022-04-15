@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Roger's website!"
 date:   2021-03-12 21:18:24
-author: Chi-Jen Roger Lo (Cantab)
+author: Chi-Jen Roger Lo
 categories: Stickies
 tags:	personal information
 cover:  "/assets/backtothefuture.jpg"
