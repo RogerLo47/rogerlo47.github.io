@@ -77,7 +77,7 @@ social:
     username: RogerLo47
     url: https://github.com/RogerLo47
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: Facebook
     icon: facebook
