@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:4000" # the base hostname & protocol for your site
-cover: "/assets/UK_Cambridge_UK_Header.jpeg"
+cover: "/assets/header.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
