@@ -14,5 +14,5 @@ Chi-Jen Roger Lo (羅啟仁) comes from Taiwan. He is a Ph.D. student of [Inform
 [University of Cambridge]: https://www.cam.ac.uk
 [National Taiwan University]: https://www.ntu.edu.tw/english/
 [Prof. Sumeetpal S. Singh]: http://www.eng.cam.ac.uk/profiles/sss40
-[CV]:
+[CV]: https://tonic.ee.ntu.edu.tw/depot/rogerlo47/chijenlo_cv_20220224.pdf
 [LinkedIn]: https://www.linkedin.com/in/rogerlo47/
