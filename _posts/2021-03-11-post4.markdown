@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 title:  "Presentation slides for study groups participated"
@@ -67,3 +68,4 @@ These are some of my presentation slides from [Advanced Algorithms Study Group] 
 [Advanced Algorithms Study Group]: https://shaohengko.github.io/studygroup/
 [Graph Neural Networks (GNN) Study Group]: https://hackmd.io/Ga3mxIQyTrSVYLxskGG1mQ
 [Institute of Information Science, Academia Sinica]: https://www.iis.sinica.edu.tw/en/index.html
+--->
