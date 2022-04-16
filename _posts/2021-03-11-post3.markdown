@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 title:  "Works & implementations for courses I've taken"
@@ -104,3 +105,4 @@ Recently, I started the [Self-Driving Car Engineer Nanodegree Program] on Udacit
 [credentials]: https://www.coursera.org/account/accomplishments/specialization/YUQXE7YT2NKM
 [Stanford's CS230]: https://cs230.stanford.edu/syllabus/
 [Self-Driving Car Engineer Nanodegree Program]: https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+--->
