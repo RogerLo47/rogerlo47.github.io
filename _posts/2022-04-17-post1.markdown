@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Cambridge PhD及百大獎學金申請經驗”
+title:  "Some experience on my PhD application"
 date:   2022-04-17 15:50:31
 author: Chi-Jen Roger Lo
 categories: Posts
