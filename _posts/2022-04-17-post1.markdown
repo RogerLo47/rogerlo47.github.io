@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cambridge PhD 及百大獎學金申請經驗"
+title:  "Some experience on my gradute applications"
 date:   2022-04-17 15:50:31
 author: C. J. Roger Lo
 categories: Posts
