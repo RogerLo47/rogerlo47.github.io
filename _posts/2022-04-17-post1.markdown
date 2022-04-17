@@ -4,7 +4,6 @@ title:  "Some experience on my PhD application"
 date:   2022-04-17 15:50:31
 author: Chi-Jen Roger Lo
 categories: Posts
-tags: postgraduate application cambridge scholarship
 cover:  "/assets/backtothefuture.jpg"
 ---
 
