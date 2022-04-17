@@ -2,7 +2,7 @@
 layout: post
 title:  “Cambridge PhD及百大獎學金申請經驗”
 date:   2022-04-17 15:50:31
-author: C. J. Roger Lo
+author: Chi-Jen Roger Lo
 categories: Posts
 ---
 
