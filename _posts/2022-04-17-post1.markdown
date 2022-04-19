@@ -42,7 +42,7 @@ categories: Posts
 
 我入學前就對全球的概況進行過深入的查考，碩一的時候就以 Cambridge 為第一志願設下了不敗戰略，就是先丟一些 10 個月至一年的 MPhil, MScR 等研究型碩士的 program。英國很多不錯的學校都有開，諸如 UCL, Cambridge, Edinburgh 等，入學的門檻自然是比 PhD 較低，缺點就是大多要自費。事實上這是最關鍵的一躍。我當初的策略是如果能用一年的學費換來 PhD 的不用錢 (再次感謝百大)，那就是一筆成功的 investment。
 
-當時申請 Cambridge MPhil in Advanced Computer Science 雖然有 interview 但還是沒上，輾轉來到 University of Edinburgh 加入 Prof. Mahesh K. Marina 的 NetSys Group。(老師人很好，跟業界關係也不錯) 幸運的是來了之後第二天就知道 Cambridge PhD 上了，一切都如同我計算的進行，無縫銜接。而且因為指導教授政通人和，意料之外地獲得當 RA 賺錢的機會。愛丁堡大學 Informatics department (就是 CS, AI, HCI, Cognitive Science 等系合併) 規模跟資源是歐洲領先，尤其是 AI, Speech/NLP, formal language 領域。甚至我在這邊的兩個台灣 PhD 留學生 (一個大學同學兼好友、一個清大的) 都是放棄 Columbia/Cambridge 等好地方跑來這裡的 Speech/NLP Group。
+當時申請 Cambridge MPhil in Advanced Computer Science 雖然有 interview 但還是沒上，輾轉來到 University of Edinburgh 加入 Prof. Mahesh K. Marina 的 NetSys Group。(老師人很好，跟業界關係也不錯) 幸運的是來了之後第二天就知道 Cambridge PhD 上了，一切都如同我計算的進行，無縫銜接。而且因為指導教授政通人和，意料之外地獲得當 RA 賺錢的機會。愛丁堡大學 Informatics department (就是 CS, AI, HCI, Cognitive Science 等系合併) 規模跟資源是歐洲領先，尤其是 AI, Speech/NLP, formal language 領域。甚至我在這邊的兩個台灣 PhD 留學生 (一個大學同學兼好友、一個清大的) 都是放棄 Columbia, Cambridge 等好地方跑來這裡的 Speech/NLP Group。
 
 愛丁堡真是個好地方，在這個漂亮的城市也出過很多偉大的科學家像是 Hume, Bayes, Maxwell, Darwin, Higgs, Hinton, Bishop 等等，隔壁格拉斯哥則是工業革命的發源地，上面又是絕美的 Scottish highlands，是一生必定造訪的景觀。蘇格蘭在西方文明中的地位應該是蠻崇高的，像是川普在歐洲少數的產業就是在高地的兩個高爾夫球場渡假村。一開始我還覺得讀兩個碩士才 PhD 有點丟臉，但是想想如果我在台大讀完碩士才申請美國 PhD，要是資格考過課修完，CV 上一樣會出現兩個碩士。(事實上我也可以選擇不畢業，研究照做、投稿照投，可是不交畢業論文給學校。) 而且，從台大跳到 UoE 再跳到 Cambridge，絕對是比台大直接跳到 Princeton, Harvard, Stanford 來得更快、更實際、成功率更高。
 
