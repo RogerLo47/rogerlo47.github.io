@@ -6,7 +6,7 @@ author: Chi-Jen Roger Lo
 categories: Posts
 ---
 
-有鑒於自己在申請上受到過很多人的幫助，也該換我來經驗傳承幫助將來想申請 Cambridge PhD 的後繼之人們了。至於為什麼不放在 PTT studyabroad 或是 AdvEduUK，有以下幾個原因：一是我覺得 PTT 上有時候留言常常很 mean (柯粉鍵盤俠？)、二是我已經沒登入潛水很久了、三是我不想打亂市場機制。(後面會解釋) 自己當初只申請一間學校就是 Cambridge，並設定一個完整針對性的申請策略「No. 1 戰略」，很多資訊都是我透過 google 爬過國內外各個看板所吸收，因此我想讓真的有心申請 Cambridge 並且將它做為第一志願的人才能比較容易找到這篇文。以下我會介紹我的學思歷程、申請策略、教育部百大獎學金、申請 Cambridge 的好處，中間穿插一些有用的資訊。
+有鑒於自己在申請上受到過很多人的幫助，也該換我來經驗傳承幫助將來想申請 Cambridge PhD 的後繼之人們了。至於為什麼不放在 PTT studyabroad 或是 AdvEduUK，有以下幾個原因：一是我覺得 PTT 上經常有時候留言很 mean (柯粉鍵盤俠？)、二是我已經沒登入潛水很久了、三是我不想打亂市場機制。(後面會解釋) 自己當初只申請一間學校就是 Cambridge，並設定一個完整針對性的申請策略「No. 1 戰略」，很多資訊都是我透過 google 爬過國內外各個看板所吸收，因此我想讓真的有心申請 Cambridge 並且將它做為第一志願的人才能比較容易找到這篇文。以下我會介紹我的學思歷程、申請策略、教育部百大獎學金、申請 Cambridge 的好處，中間穿插一些有用的資訊。
 
 申請是很個人的事情，那些世界頂級名校會用各種 factor 來評估你這個人，因此離不開脈絡。要讓這篇經驗分享發揮效益，必須穿插我的背景跟心路歷程：我是 2021 年底申請 PhD。大學是台大電機系，申請的時候剛拿到台大電信所碩士。相較其他同學，我是很晚領略到讀研究所的好處，大學畢業空一年才讀研究所。當時的轉捩點是草包當選高雄市長深深的亡國恐懼 (我當時就判斷他一定選總統)，在大學恩師林宗男教授建議之下才回來考研究所：進可攻、退可守，提升能力將來好貢獻台灣。(這點是我欽佩老師的原因之一。另外是老師對趨勢的判斷力極好，並時常一大早來待到晚上七八點才回家，展現十足的學者風範。研究所期間，實驗室剛好在老師辦公室對面，偶爾遇到或是老師下班前去串個門子小聊一下實在是難能可貴的回憶。) 雖然是落後了些，但同時也讓我有時間來觀察其他認識的人的發展，進而擬定戰略。
 
@@ -44,7 +44,7 @@ categories: Posts
 
 當時申請 Cambridge MPhil in Advanced Computer Science 雖然有 interview 但還是沒上，輾轉來到 University of Edinburgh 加入 Prof. Mahesh K. Marina 的 NetSys Group。幸運的是來了之後第二天就知道 Cambridge PhD 上了，一切都如同我計算的進行，無縫銜接。指導教授人很好，跟業界關係也不錯，而且因為老師政通人和，意料之外地獲得當 RA 賺錢的機會。愛丁堡大學 Informatics department (就是 CS, AI, HCI, Cognitive Science 等系合併) 規模跟資源是歐洲領先，尤其是 AI, Speech/NLP, formal language 領域。甚至我在這邊的兩個台灣 PhD 留學生 (一個大學同學兼好友、一個清大的) 都是放棄 Columbia, Cambridge 等夢幻名單跑來這裡的 Speech/NLP Group。
 
-愛丁堡真是個好地方，在這個漂亮的城市也出過很多偉大的科學家像是 David Hume, Thomas Bayes, James Clerk Maxwell, Charles Darwin, Peter Higgs, Geoffrey Hinton, Christopher Bishop 等等，隔壁格拉斯哥則是工業革命的發源地，上面又是絕美的 Scottish highlands，是一生必定造訪的景觀。蘇格蘭在西方文明中的地位應該是蠻崇高的，像是川普在歐洲少數的產業就是在高地的兩個高爾夫球場渡假村。一開始我還覺得讀兩個碩士才 PhD 有點丟臉，但是想想如果我在台大讀完碩士才申請美國 PhD，要是資格考過、課修完，CV 上一樣會出現兩個碩士。(事實上我也可以選擇不畢業，研究照做、投稿照投，可是不交畢業論文給學校。) 而且，從台大跳到 UoE 再跳到 Cambridge，絕對是比台大直接跳到 Princeton, Harvard, Stanford 來得更快、更實際、成功率更高。
+愛丁堡真是個好地方，在這個漂亮的城市也出過很多偉大的科學家像是 David Hume, Thomas Bayes, James Clerk Maxwell, Charles Darwin, Peter Higgs, Geoffrey Hinton, Christopher Bishop 等等，隔壁格拉斯哥則是工業革命的發源地，上面又是絕美的 Scottish highlands，是一生必定造訪的景致。蘇格蘭在西方文明中的地位應該是蠻崇高的，像是川普在歐洲少數的產業就是在高地的兩個高爾夫球場渡假村。一開始我還覺得讀兩個碩士才 PhD 有點丟臉，但是想想如果我在台大讀完碩士才申請美國 PhD，要是資格考過、課修完，CV 上一樣會出現兩個碩士。(事實上我也可以選擇不畢業，研究照做、投稿照投，可是不交畢業論文給學校。) 而且，從台大跳到 UoE 再跳到 Cambridge，絕對是比台大直接跳到 Princeton, Harvard, Stanford 來得更快、更實際、成功率更高。
 
 總之，大學期間若能交換到知名大學 (e.g. KTH, 東大) 就爭取，做研究的話能有 visiting research 更好。一般來說 PhD 找到好的老闆比學校的排名更重要，很大程度上是這樣沒錯，但對我來講，我得遊走國際生意場，很多高管都是 M7 MBA，他們相對不懂研究圈的生態。學校知名度之於我的重要性就來得比多數 PhD 高上許多。事後諸葛亮來看，先申請 MPhil 絕對是成功、偉大的一步棋。
 
