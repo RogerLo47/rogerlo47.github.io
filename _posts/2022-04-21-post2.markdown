@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Information, Computational Science & Computational Engineering"
+title:  "Information, Computational Science & Engineering"
 date:   2022-04-21 18:01:21
 author: C. J. Roger Lo
 categories: Posts
 ---
 
+TBD
 https://icme.stanford.edu
 https://www.cms.caltech.edu
 https://computing.mit.edu
