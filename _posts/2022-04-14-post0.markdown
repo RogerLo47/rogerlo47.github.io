@@ -8,7 +8,11 @@ tags:	personal information
 cover:  "/assets/backtothefuture.jpg"
 ---
 
-Welcome to Roger's website. My name is 羅啟仁 (Lo Chi-Jen) in Mandarin. I'm from Taiwan and now doing my Ph.D. at [University of Cambridge] majoring [Information Engineering]. Another self-introduction can be found in [About]. An overview of my research lies in [Research]. This website also contains several records of my thoughts and experience to share with. Please access these posts through [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing my site.
+Welcome to Roger's website. My name is 羅啟仁 (Lo Chi-Jen) in Mandarin. I'm from Taiwan and now doing my Ph.D. at [University of Cambridge] majoring [Information Engineering]. 
+
+My name has a lot to do with communications. First of all, "Roger" is widely used in radio communication as a response on the reception of a message. On the other hand, my last name 羅 "Lo", from “Lo and Behold”, coincides with the first message sent over the Internet, from UCLA to Stanford via ARPANET, in Sep 1969.
+
+Another self-introduction (and my curriculum vitae) can be found in [About]. An overview of my research lies in [Research]. This website also contains several records of my thoughts and experience to share with. Please access these posts through [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing my site.
 
 <a href="/assets/niagarafalls.jpg" data-lightbox="falcon9-large" data-title="Profile photo taken at Niagara Falls, Canada, at 2018">
 <img src="/assets/niagarafalls.jpg" title="Profile photo taken at Niagara Falls, Canada, at 2018">
