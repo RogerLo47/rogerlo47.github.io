@@ -8,7 +8,7 @@ tags:	personal information
 cover:  "/assets/backtothefuture.jpg"
 ---
 
-Welcome to Roger's website. My name is 羅啟仁 (Lo Chi-Jen) in Mandarin. I'm from Taiwan and now doing my Ph.D. at [University of Cambridge] majoring [Information Engineering]. 
+Welcome to Roger's website. My name is 羅啟仁 (Lo Chi-Jen). I'm from Taiwan and now doing my Ph.D. at [University of Cambridge] majoring [Information Engineering]. 
 
 My name has a lot to do with communications, of either wireless or wired. First of all, "Roger" is widely used in radio communication as a response on the reception of a message. On the other hand, my last name "Lo", coincides with the first message sent over the Internet, from UCLA to Stanford via ARPANET, in Sep 1969. See ["Lo and Behold"].
 
