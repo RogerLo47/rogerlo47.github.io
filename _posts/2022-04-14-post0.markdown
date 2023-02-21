@@ -12,7 +12,7 @@ Welcome to Roger's website. My name is 羅啟仁 (Lo Chi-Jen). I'm from Taiwan a
 
 My name has a lot to do with communications, of either wireless or wired. First of all, "Roger" is widely used in radio communication as a response on the reception of a message. On the other hand, my last name "Lo", coincides with the first message sent over the Internet, from UCLA to Stanford via ARPANET, in Sep 1969. See [《Lo and behold: The internet》].
 
-My curriculum vitae can be access through [About]. An overview of my research lies in [Research]. This website also contains several records of my thoughts and experience to share. Please find these posts by [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me though my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing.
+My curriculum vitae can be access through [About]. An overview of my research lies in [Research]. This website also contains several records of my thoughts and experience to share. Please find these posts by [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me via my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing my website.
 
 <a href="/assets/niagarafalls.jpg" data-lightbox="falcon9-large" data-title="Profile photo taken at Niagara Falls, Canada, at 2018">
 <img src="/assets/niagarafalls.jpg" title="Profile photo taken at Niagara Falls, Canada, at 2018">
