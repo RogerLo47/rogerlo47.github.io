@@ -1,28 +1,28 @@
 - company:
     name: University of Cambridge
     link: https://www.cam.ac.uk
-    logo: assets/img/logo_cam.svg
+    logo: assets/img/logo_cam.png
   title: PhD student
   start: 2023
   end: 2026
 - company:
     name: University of Edinburgh
     link: https://www.ed.ac.uk
-    logo: assets/img/logo_uoe.svg
+    logo: assets/img/logo_uoe.png
   title: Research Assistant
   start: 2022
   end: 2022
 - company:
     name: National Taiwan University
     link: https://www.ntu.edu.tw/english/
-    logo: assets/img/logo_ntu.svg
+    logo: assets/img/logo_ntu.png
   title: Bachelor and Master student
   start: 2019
   end: 2021
 - company:
     name: MITx MicroMasters
     link: https://google.com/
-    logo: assets/img/logo_mit.svg
+    logo: assets/img/logo_mit.png
   title: Online Credential
   start: 2019
   end: 2019
