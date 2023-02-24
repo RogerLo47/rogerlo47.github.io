@@ -14,8 +14,8 @@ My name has a lot to do with communications, of either wireless or wired. First 
 
 My curriculum vitae can be access through [About]. An overview of my research lies in [Research]. This website also contains several records of my thoughts and experience to share with. Please find these by [Homepage] or [Archives]. Last but not least, you may recognize a more stereoscopic me via my treasured [Reading], [Quotes], and [Photos]. Thank you for browsing my website.
 
-<a href="/assets/IMG_7128.jpg" data-lightbox="falcon9-large" data-title="Photo taken at Quebec, Canada, Aug 2018">
-<img src="/assets/IMG_7128.jpg" title="Photo taken at Quebec, Canada, Aug 2018">
+<a href="/assets/IMG_7128.JPG" data-lightbox="falcon9-large" data-title="Photo taken at Quebec, Canada, Aug 2018">
+<img src="/assets/IMG_7128.JPG" title="Photo taken at Quebec, Canada, Aug 2018">
 </a>
 
 [Information Engineering]: http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering
