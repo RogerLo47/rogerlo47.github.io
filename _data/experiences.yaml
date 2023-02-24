@@ -9,20 +9,20 @@
     name: University of Edinburgh
     link: https://www.ed.ac.uk
     logo: assets/img/logo_uoe.svg
-  title: Masters by Research
+  title: Research Assistant
   start: 2022
   end: 2022
 - company:
     name: National Taiwan University
     link: https://www.ntu.edu.tw/english/
     logo: assets/img/logo_ntu.svg
-  title: Toilet cleaner
-  start: 2013
+  title: Bachelor and Master student
+  start: 2019
   end: 2021
 - company:
     name: MITx MicroMasters
     link: https://google.com/
     logo: assets/img/logo_mit.svg
-  title: Nobody
+  title: Online Credential
   start: 2019
   end: 2019
