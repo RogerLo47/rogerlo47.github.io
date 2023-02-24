@@ -429,3 +429,142 @@ pre code.hljs {
 		}
 	}
 }
+
+div.timeline {
+	margin: 1em 0 1em 0;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	list-style-type: none;
+	border-right: 2px solid #777;
+	width: 50%;
+	font-size: 14px;
+  
+	.wrapper {
+	  display: block;
+	  position: relative;
+	  margin-top: -50px;
+	  box-sizing: unset;
+  
+	  .content {
+		border-radius: 5px;
+		margin: 1em 28px;
+		padding: 2em;
+		line-height: 2.1;
+		max-width: 250px;
+		min-height: 50px;
+		border: 1px solid #ddd;
+		display: flex;
+  
+		.logo {
+		  display: flex;
+		  align-items: center;
+		  margin-right: 15px;
+  
+		  a img {
+			width: 80px;
+			height: 80px;
+		  }
+		}
+  
+		.company {
+		  font-size: 14pt;
+		}
+  
+		a.company {
+		  color: #0033cc;
+  
+		  &:hover {
+			color: #5599cc;
+		  }
+		}
+	  }
+  
+	  @mixin timelinePoint() {
+		content: "";
+		background: #777;
+		width: 10px;
+		height: 10px;
+		border: 3px solid #fff;
+		position: absolute;
+		border-radius: 50px;
+	  }
+  
+	  &:nth-child(odd) {
+  
+		.content {
+		  margin-left: auto;
+  
+		  &:after {
+			width: 0;
+			content: "";
+			position: absolute;
+			display: block;
+			border-width: 22px 0 22px 16px;
+			border-style: solid;
+			border-color: transparent #fff;
+			right: 13px;
+			top: 30px;
+		  }
+  
+		  &:before {
+			width: 0;
+			content: "";
+			position: absolute;
+			display: block;
+			border-width: 22px 0 22px 16px;
+			border-style: solid;
+			border-color: transparent #ddd;
+			right: 12px;
+			top: 30px;
+		  }
+		}
+  
+		&:after {
+		  @include timelinePoint();
+		  float: left;
+		  top: 43px;
+		  right: -9px;
+		}
+	  }
+  
+	  &:nth-child(even) {
+		left: 100%;
+		margin-left: 6px;
+  
+		.content {
+  
+		  &:after {
+			width: 0;
+			content: "";
+			position: absolute;
+			display: block;
+			border-width: 22px 16px 22px 0;
+			border-style: solid;
+			border-color: transparent #fff;
+			left: 13px;
+			top: 30px;
+		  }
+  
+		  &:before {
+			width: 0;
+			content: "";
+			position: absolute;
+			display: block;
+			border-width: 22px 16px 22px 0;
+			border-style: solid;
+			border-color: transparent #ddd;
+			left: 12px;
+			top: 30px;
+		  }
+  
+		}
+  
+		&:before {
+		  @include timelinePoint();
+		  float: right;
+		  top: 43px;
+		  left: -13px;
+		}
+	  }
+	}
+  }
