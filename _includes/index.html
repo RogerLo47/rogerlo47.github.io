@@ -1,12 +1,22 @@
 <div class="default">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
-  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+  <div class="section" id="header">
+    <div class="content">
+      <div class="photo"><img src="{{ site.profile-photo }}" /></div>
+      <div class="text">
+        <div class="name">{{ site.title }}</div>
+        <hr />
+        <div class="short-description">{{ site.subtitle }}</div>
+      </div>
+    </div>
+  </div>
+  <!--<div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
       <h1 class="title">{{ site.title }}</h1>
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header>
-  </div>
+  </div>-->
 </div>
 
 <div class="wrapper">
