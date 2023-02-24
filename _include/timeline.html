@@ -1,0 +1,26 @@
+<div class="timeline">
+  {% assign exps = site.data.experiences | sort: "start" | reverse %}
+  {% for exp in exps %}
+    {% assign remainder = forloop.index0 | modulo: 2 %}
+    <div class="wrapper" data-aos="fade-{% if remainder == 0 %}right{% else %}left{% endif %}" data-aos-offset="300" data-aos-easing="ease-in-sine" data-aos-duration="500">
+      <div class="content">
+        {% if exp.company.logo %}
+        <div class="logo">
+          {% if exp.company.link %}
+          <a href="{{ exp.company.link }}">
+          {% endif %}
+            <img src="{{ exp.company.logo }}"></img>
+          {% if exp.company.link %}
+          </a>
+          {% endif %}
+        </div>
+        {% endif %}
+        <div class="text">
+          {% if exp.company.link %}<a class="company" href="{{ exp.company.link }}">{{ exp.company.name }}</a>{% else %}<div class="company">{{ exp.company.name }}</div>{% endif %}
+          <div>{{ exp.title }}</div>
+          <div>{{ exp.start | date: "%b %Y" }} - {{ exp.end | date: "%b %Y" }}</div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
