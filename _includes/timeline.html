@@ -18,7 +18,7 @@
         <div class="text">
           {% if exp.company.link %}<a class="company" href="{{ exp.company.link }}">{{ exp.company.name }}</a>{% else %}<div class="company">{{ exp.company.name }}</div>{% endif %}
           <div>{{ exp.title }}</div>
-          <div>{{ exp.start | date: "%b %Y" }} - {{ exp.end | date: "%b %Y" }}</div>
+          <div>{{ exp.start }} - {{ exp.end }}</div>
         </div>
       </div>
     </div>
