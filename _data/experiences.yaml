@@ -1,28 +1,22 @@
 - company:
-    name: Google
     name: University of Cambridge
     link: https://www.cam.ac.uk
     logo: assets/img/logo_cam.svg
-  title: Software engineer
   title: PhD student
-  start: 2019-07-01
-  end: 2021-01-01
+  start: 2023
+  end: 2026
 - company:
-    name: Microsoft
-  title: Intern
     name: University of Edinburgh
     link: https://www.ed.ac.uk
     logo: assets/img/logo_uoe.svg
   title: Masters by Research
-  start: 2018-07-01
-  end: 2021-01-01
+  start: 2022
+  end: 2022
 - company:
     name: National Taiwan University
     link: https://www.ntu.edu.tw/english/
     logo: assets/img/logo_ntu.svg
   title: Toilet cleaner
-  start: 2015-04-01
-  end: 2021-01-01
   start: 2013
   end: 2021
 - company:
@@ -30,5 +24,5 @@
     link: https://google.com/
     logo: assets/img/logo_mit.svg
   title: Nobody
-  start: 2020-01-01
-  end: 2021-01-01
+  start: 2019
+  end: 2019
